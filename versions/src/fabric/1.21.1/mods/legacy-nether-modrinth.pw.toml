@@ -1,0 +1,13 @@
+name = "Legacy Nether"
+filename = "legacy-nether-modrinth-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FasxNDY4/versions/s2pCf8gt/legacy-nether-modrinth-1.0.1.jar"
+hash-format = "sha512"
+hash = "79667a94ebecf3bc3e9015615bae984140388f4e8e8d5917f2a6ea01fcba125280ce4ae064a09d3546724fe1061124c90f103f4e02b8dcf48731264f20198533"
+
+[update]
+[update.modrinth]
+mod-id = "FasxNDY4"
+version = "s2pCf8gt"

@@ -1,208 +1,236 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/cpm.json"
+file = "configureddefaults/config/cpm.json"
 hash = "ec1314db9a62a4cb7829e22953875308166ef29a01e2189ebe7f30bb569238b2"
 
 [[files]]
-file = "config/customwindowtitle-client.toml"
+file = "configureddefaults/config/customwindowtitle-client.toml"
 hash = "73dfe9a1e2d5358a66bf41e0e5fdbc344a5ed18c1a6c1cbb14a9c89f54c967ce"
 
 [[files]]
-file = "config/default_world_preset.txt"
+file = "configureddefaults/config/default_world_preset.txt"
 hash = "fe186ce93d10863b65e2707226b1f93305d6ac6b79b6518363e98dc03009ddc6"
 
 [[files]]
-file = "config/entity_texture_features.json"
+file = "configureddefaults/config/entity_texture_features.json"
 hash = "4284266e11add2e03fe5b9a27ce1287e725443dfe12bdf2dcde5473203f62107"
 
 [[files]]
-file = "config/entityculling.json"
+file = "configureddefaults/config/entityculling.json"
 hash = "2c14e43abb3e4c8f12da7cce0de6e0f98bdacb625b59630f720c294476b6750a"
 
 [[files]]
-file = "config/etf_warnings.json"
+file = "configureddefaults/config/etf_warnings.json"
 hash = "368c428c9edaddb490c2e7339642e79ceddcb0a6fd8fd434c4bd8e1af34c26f8"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
+file = "configureddefaults/config/fabric/indigo-renderer.properties"
 hash = "475f9d40c7ff53e8fc903a4e58e24b50d899d07c3ea1efad87ea4b45ae28dc6b"
 
 [[files]]
-file = "config/factory_api/client_options.json"
+file = "configureddefaults/config/factory_api/client_options.json"
 hash = "f863472a014971015df6386821a73412174ee1bfea7e70893b71890d1da95780"
 
 [[files]]
-file = "config/factory_api/common_options.json"
+file = "configureddefaults/config/factory_api/common_options.json"
 hash = "7b103325f88b27b5d68e6ac6a02d53761e9287ccbffd18ffdd5da0063a9d9828"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
+file = "configureddefaults/config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
-file = "config/iris-excluded.json"
+file = "configureddefaults/config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
-file = "config/iris.properties"
+file = "configureddefaults/config/iris.properties"
 hash = "93de6cf91fdd595756f0faf50dccbe26e2d3f6a6a1f3695c7c9cc43650635d77"
 
 [[files]]
-file = "config/item_obliterator.json5"
+file = "configureddefaults/config/item_obliterator.json5"
 hash = "ef6fa4db41f89eaef5f9c2a77792fa2053246b3888cade50798f0cfbb87a3401"
 
 [[files]]
-file = "config/legacy/client_mixin.json"
+file = "configureddefaults/config/legacy/client_mixin.json"
 hash = "de0e25757fb3fb538d710ba01b3ebe416e97f0b40b78af2749cb85ba138532f3"
 
 [[files]]
-file = "config/legacy/client_options.json"
+file = "configureddefaults/config/legacy/client_options.json"
 hash = "2ecaa193025108b23d4b4a29723df467860990b05e12864e372c8abb25c1d2c1"
 
 [[files]]
-file = "config/legacy/common.json"
+file = "configureddefaults/config/legacy/common.json"
 hash = "74ab57623ba51addd103699dbc2dc37556a02e02ae1fe77c767085f259b90343"
 
 [[files]]
-file = "config/legacy/common_mixin.json"
+file = "configureddefaults/config/legacy/common_mixin.json"
 hash = "8ffadf5901d31192638d4089d7b3eb16a6ed160252c9b4f7c6566448195f4019"
 
 [[files]]
-file = "config/legacy/global_packs.json"
+file = "configureddefaults/config/legacy/global_packs.json"
 hash = "b04f846d5f56be9192f72f7ea7f5930c794c84eca2c1a775c6571de3e67faeea"
 
 [[files]]
-file = "config/legacyskins.json"
+file = "configureddefaults/config/legacyskins.json"
 hash = "d16d612d7725817d5f76295b293072771f234f339a73b0c4ea365d08210af359"
 
 [[files]]
-file = "config/lithium.properties"
+file = "configureddefaults/config/lithium.properties"
 hash = "79348e4677fbd9474a18f772ecd271efebccdffed3a3f0bf2cc546e93d5c205a"
 
 [[files]]
-file = "config/moderner_beta.json"
+file = "configureddefaults/config/moderner_beta.json"
 hash = "f703498d7250c82305a1899600c7d2d042a02f1a53ce9664b36916118c1a177b"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
+file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "0b998e5fd561a445ffcc77bf86a6e6009fc73663fa77af719fc1191268b435ba"
 
 [[files]]
-file = "config/modmenu.json"
+file = "configureddefaults/config/modmenu.json"
 hash = "cec87f40e1433d3c12488d448ab5442f4751ac5533ede51604a913cd2c2ef477"
 
 [[files]]
-file = "config/moreculling.toml"
+file = "configureddefaults/config/moreculling.toml"
 hash = "4b052f73153062f2699e7981584e4b15dffa5e634f0d46597c5db1b7476a8b14"
 
 [[files]]
-file = "config/necronomicon.json5"
+file = "configureddefaults/config/necronomicon.json5"
 hash = "c30e6610e97f02cef3ddaf0095a53524a7156732de70674da8759a74fb83edee"
 
 [[files]]
-file = "config/nochangethegame.toml"
+file = "configureddefaults/config/nochangethegame.toml"
 hash = "48a17959ba7452611f6848437ca2a7c4208c7807ca5dd19b3d20170ad0f62ec2"
 
 [[files]]
-file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
+file = "configureddefaults/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
 hash = "e48a18f063e5588a9e64445d627266a959d8a56f4c95d871a34a10851754f66a"
 
 [[files]]
-file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
+file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks.json"
 hash = "e48a18f063e5588a9e64445d627266a959d8a56f4c95d871a34a10851754f66a"
 
 [[files]]
-file = "config/sodium-fingerprint.json"
+file = "configureddefaults/config/sodium-fingerprint.json"
 hash = "c9276d42f334df5e4542b877f20a4d57b87f80fd36d4dfb32c1566dc8e7a9df6"
 
 [[files]]
-file = "config/sodium-mixins.properties"
+file = "configureddefaults/config/sodium-mixins.properties"
 hash = "35d3939d1bc306839c6ad538803288b3d2bc8a2dfed4948eae569d540d6b8058"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "configureddefaults/config/sodium-options.json"
 hash = "528226651af6149f39e1f346c9ed4a68086c1d0dc83f97f8d9c237e405a7abd4"
 
 [[files]]
-file = "config/vmp.properties"
+file = "configureddefaults/config/vmp.properties"
 hash = "56a26e0a00befcc3fa4af5f904dda9030c4a9112710a54fc8ec02a1ecf5709ff"
 
 [[files]]
-file = "config/yosbr/config/badoptimizations.txt"
+file = "configureddefaults/config/yosbr/config/badoptimizations.txt"
 hash = "7544cc17f8ba67ecd43e37f31bf3204822f777764eb7bbbc17e58252d29d2498"
 
 [[files]]
-file = "config/yosbr/config/dynamic_fps.json"
+file = "configureddefaults/config/yosbr/config/dynamic_fps.json"
 hash = "eabffad28f9fcf857bd260c9a97f2142a2659f833039eeb2a9d2349828f7a6ed"
 
 [[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
+file = "configureddefaults/config/yosbr/config/enhanced_bes.properties"
 hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
-file = "config/yosbr/config/entityculling.json"
+file = "configureddefaults/config/yosbr/config/entityculling.json"
 hash = "8756ce99a834f844dacfe7824e9462fc14f8654718174580b9af86d6bcd5ea7c"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
+file = "configureddefaults/config/yosbr/config/ferritecore.mixin.properties"
 hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
+file = "configureddefaults/config/yosbr/config/immediatelyfast.json"
 hash = "616308873c29d4de3410db2fc50e70297e77943698d673025c1e72a31618f57f"
 
 [[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
+file = "configureddefaults/config/yosbr/config/modernfix-mixins.properties"
 hash = "4822d1751f54182e9e675d458b8bcd045e99bc6cc76152bf6945cce6d91c5405"
 
 [[files]]
-file = "config/yosbr/config/servercore/config.yml"
+file = "configureddefaults/config/yosbr/config/servercore/config.yml"
 hash = "a6fbf706590f394558edc5996f07a9575739fb9f056eed59cffe17fa57ec4e55"
 
 [[files]]
-file = "config/yosbr/config/servercore/optimizations.yml"
+file = "configureddefaults/config/yosbr/config/servercore/optimizations.yml"
 hash = "8d528c4cad1cca659e5582d0ac35bb1ab971d4a98df009e3fc224d03f2304eff"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "configureddefaults/config/yosbr/config/sodium-options.json"
 hash = "bd41ce188b9cb707f37facf26efae78be196661998ed6dcfddc3646c5e0c1c56"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
+file = "configureddefaults/config/yosbr/config/threadtweak.json"
 hash = "153412febe190c769dc0264b19803223be40fb22f96bdabe7de4e4e712dcaa3d"
 
 [[files]]
-file = "config/yosbr/config/vmp.properties"
+file = "configureddefaults/config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
-file = "config/yosbr/options.txt"
+file = "configureddefaults/config/yosbr/options.txt"
 hash = "6dca3b5811ff58559aed9c52be2346fb864cf040d9428d180c6920d4473c5e71"
 
 [[files]]
-file = "config/yosbr/resource_albums/minecraft.json"
+file = "configureddefaults/config/yosbr/resource_albums/minecraft.json"
 hash = "d79cb48b7d8b9c2dc103d6b2f13b15852a499aab860b2e90ff89184c3a05cf2c"
 
 [[files]]
-file = "config/yosbr/resource_albums/minecraft_classic.json"
+file = "configureddefaults/config/yosbr/resource_albums/minecraft_classic.json"
 hash = "3825575ca6946cc45fc57640485ab651e680fc741ea377ea7ee0c78df107bebd"
 
 [[files]]
-file = "config/yosbr/resource_albums/template_album.json"
+file = "configureddefaults/config/yosbr/resource_albums/template_album.json"
 hash = "a1da242a1dbc2561c7ce207fbaa0bd2fff431ffa5353d8bd65727a898fa52606"
 
 [[files]]
-file = "config/yosbr/resource_albums/template_album_1.json"
+file = "configureddefaults/config/yosbr/resource_albums/template_album_1.json"
 hash = "9d489a3cc684b28900cd4ecdb9be462e3c47c870ecb5eb0df681ae30f855e226"
 
 [[files]]
-file = "config/yosbr/resource_albums/template_album_2.json"
+file = "configureddefaults/config/yosbr/resource_albums/template_album_2.json"
 hash = "744dbb0ecc355d30132401b33eb469732fddf7bf7d87f38a029836944488f06a"
 
 [[files]]
-file = "config/ysns.json"
+file = "configureddefaults/config/ysns.json"
 hash = "b2672fe63af0f3ef983f5223b4fed6d5a3a5cd194e0a1f8dbbb93d9a7e1c49f0"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "927fdc5030b25902583a472ce35c2f28e4ad2011a1549fcca48d49cc6e2c471e"
+
+[[files]]
+file = "configureddefaults/resource_albums.json"
+hash = "70ef5b7237cc3aa58c72b6c66daf0f08172bbd27a57471b18b1eb6e91617e725"
+
+[[files]]
+file = "configureddefaults/resource_albums/minecraft.json"
+hash = "6b1c33e9ec11b19e810601eaa61fadf2ea776c3dd21b0f89d1d97eabff5529fa"
+
+[[files]]
+file = "configureddefaults/resource_albums/minecraft_classic.json"
+hash = "48f7abdda149f25f33e5c282e6068203174405284d02f266a95fc2c10b746429"
+
+[[files]]
+file = "configureddefaults/resource_albums/template_album.json"
+hash = "a1da242a1dbc2561c7ce207fbaa0bd2fff431ffa5353d8bd65727a898fa52606"
+
+[[files]]
+file = "configureddefaults/resource_albums/template_album_1.json"
+hash = "9d489a3cc684b28900cd4ecdb9be462e3c47c870ecb5eb0df681ae30f855e226"
+
+[[files]]
+file = "configureddefaults/resource_albums/template_album_2.json"
+hash = "744dbb0ecc355d30132401b33eb469732fddf7bf7d87f38a029836944488f06a"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -315,11 +343,6 @@ hash = "555cc22c5a92f1adcfa6fb3958b68d6529396330aa7d9033e49b379a1f36e4c7"
 metafile = true
 
 [[files]]
-file = "mods/just-beta-nether.pw.toml"
-hash = "4719057d393bfa5a542c4bb9885f6daeab56437404ba3aeecc3784028d73ace2"
-metafile = true
-
-[[files]]
 file = "mods/kelp-remover.pw.toml"
 hash = "689852d383a140561dbb1b92db062a4b853abc4883aa5bb69522f8026a198d17"
 metafile = true
@@ -327,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "42a9e82a07d9b9ec5451698cb206e5e66d8f82394a009130df5721843ea6bc91"
+metafile = true
+
+[[files]]
+file = "mods/legacy-nether-modrinth.pw.toml"
+hash = "7572d7154c2b53eb096a0e5288cb551c03515c8cbaa77f3fe26c04190592d4d7"
 metafile = true
 
 [[files]]
@@ -490,30 +518,6 @@ hash = "0dce01ee676428244aa9ab59eac4c98a140063e108375d04fb7058d87cdd889f"
 metafile = true
 
 [[files]]
-file = "resource_albums.json"
-hash = "4f9207aa67112c197d0e9332d3f8a2dc930809948d337f9f7f26930b1375648a"
-
-[[files]]
-file = "resource_albums/minecraft.json"
-hash = "21704fc90f5ffe7ae8d45ed9aa63c06b74e88581daf74b4fc5ea2c933bf94ee8"
-
-[[files]]
-file = "resource_albums/minecraft_classic.json"
-hash = "114a9e52465090dcda855247a07b3ad35195ae61642c6ddad519a8ab7eee0f0d"
-
-[[files]]
-file = "resource_albums/template_album.json"
-hash = "e841ca301ab2710d490a137751efab2889f4d9599c68e2722c2489d465f08d62"
-
-[[files]]
-file = "resource_albums/template_album_1.json"
-hash = "e15c54b175baf814b488a96520e4ec2ec1a0c7739905e190402e81b2a5263dfa"
-
-[[files]]
-file = "resource_albums/template_album_2.json"
-hash = "fe2172a8e2c4a4c502b89401151b52eb42afa2e6e761b23347b17ae7ce3390cd"
-
-[[files]]
 file = "resourcepacks/GameCube Edition/assets/legacy/intro.json"
 hash = "2eb119c6688707e6ca29d3dfae74c42605ed6c790a92c5be6fff223ea5c20f2c"
 
@@ -603,15 +607,15 @@ hash = "b6e64bf95d98acb8bdd0481d05493eeba8c351a3e81f8ac83129c8f4250929b0"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/control_types.json"
-hash = "788e05265d318f346aa7359016bf4047d3fab1491a4f2da6edbf3f278948d7bd"
+hash = "544b06a92e525ee8a0460a67fecae7a767b50a3a7c393403f512bb20af496e4d"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/crafting_tab_listing.json"
-hash = "ad8611181253c6191396dcfa282a2569d42a9103cd8e4687e1b6f1fed236584c"
+hash = "6ca51180e9e134d2aa8d569e30c1ac279dcfa28820f51ce047cb7c41ae63d1a1"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/creative_tab_listing.json"
-hash = "c7c90d21f75d4b3dfcb71d3374bef21c271f06b820023284c7e9218287eb61e1"
+hash = "fceca0292f181bf809a16eccaa133e74c8919418985d8135262f8217f16fb987"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/font/playstation_3.json"
@@ -1059,7 +1063,7 @@ hash = "6f6830e9714a8a17b0cea8ecddbb4dd8334ba59325bf6aabbeeef9d5b986af2b"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/textures/gui/title/panorama_day.png.mcmeta"
-hash = "14972e242987e4be84336806bc1f08e61480110a1668718688def1be06787f1b"
+hash = "3a6ff34246a85cde1c0c18dab595318cc54d6fb603311292ebd22e8017f2d556"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/textures/gui/title/panorama_night.png"
@@ -1067,7 +1071,7 @@ hash = "05c6b6144e1ba6e3e5e24a9013d89576b0e2e50c25329a5c252a772362cdfa22"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/textures/gui/title/panorama_night.png.mcmeta"
-hash = "14972e242987e4be84336806bc1f08e61480110a1668718688def1be06787f1b"
+hash = "3a6ff34246a85cde1c0c18dab595318cc54d6fb603311292ebd22e8017f2d556"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/tutorial/tutorial9.zip"
@@ -1187,7 +1191,7 @@ hash = "fb33e9d3bfac975fd3d5a6a3ea4ce60073878dabf9cdff205c0470efaf3a595b"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/world_templates.json"
-hash = "28c10e29eeb4d50c3e9c376de15c16944913fa3d095bc18862648462dfdebf07"
+hash = "f1e8dde2a7fa01ebc9dc98737b55441edf37742f1fd6d36291a494323e02a22a"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/minecraft/changelog/en_us.txt"
