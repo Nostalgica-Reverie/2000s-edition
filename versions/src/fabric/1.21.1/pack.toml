@@ -1,6 +1,6 @@
-name = "2000s-edition"
+name = "2000s Edition"
 author = "NicSonic"
-version = "d1.4"
+version = "b1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "1e9066ef791f059b6cf863caa819da375f6e9ee0562d693fdc4251a974d2724c"
 
 [versions]
-fabric = "0.16.14"
+fabric = "0.17.2"
 minecraft = "1.21.1"
