@@ -8,7 +8,7 @@
     "file/PACP_2.0.4_Standard.zip",
     "file/Modpack Resources"
   ],
-  "displayPack": "vanilla",
+  "displayPack": "legacy:icon/minecraft_classic",
   "id": "minecraft",
   "version": 2,
   "name": "Minecraft",

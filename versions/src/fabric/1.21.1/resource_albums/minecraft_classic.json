@@ -1,5 +1,5 @@
 {
-  "icon": "vanilla",
+  "icon": "minecraft:vanilla",
   "background": "legacy:icon/background",
   "packs": [
     "vanilla",
@@ -9,6 +9,7 @@
     "file/Modpack Resources",
     "file/Modern Titles"
   ],
+  "displayPack": "vanilla",
   "id": "minecraft_classic",
   "version": 1,
   "name": "Minecraft Jappa Textures",
