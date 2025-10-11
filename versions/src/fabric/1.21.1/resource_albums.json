@@ -1,10 +1,10 @@
 {
-  "default": "minecraft_classic",
+  "default": "minecraft",
   "order": [
     "minecraft",
     "minecraft_classic",
-    "xbox",
-    "ps2",
-    "gamecube"
+    "template_album",
+    "template_album_1",
+    "template_album_2"
   ]
 }
