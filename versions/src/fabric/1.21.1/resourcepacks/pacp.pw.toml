@@ -3,11 +3,11 @@ filename = "PACP_Base_Release.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gx2HeuWD/versions/wS7UzKpd/PACP_Base_Release.zip"
+url = "https://cdn.modrinth.com/data/gx2HeuWD/versions/rIyLdYze/PACP_Base_Release.zip"
 hash-format = "sha512"
-hash = "15cc9824ddd1fc9a45613c389e78873d587fe24f9e7a84a4540eca267de0e0bf493f34bf7d87064f674c1cb0bc0a665f8ed2c92445d5fe41838cd91f68836ed5"
+hash = "26813ec8fcf8de91de14af60adc1e93e28f35f4c19f5065b6730170625bc65ec223f70fab7cce222f120b228089341b8bf67dea68a9162cbce4c6f45ec9a8df0"
 
 [update]
 [update.modrinth]
 mod-id = "gx2HeuWD"
-version = "wS7UzKpd"
+version = "rIyLdYze"
