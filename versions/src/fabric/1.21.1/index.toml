@@ -211,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "232902280a2fd3deb4f69689d9dbbc7c7f93390a2a17dcbffe94687b41fcd82a"
+hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4fbc7631f58776e0add9eded331dedb4755a57e428b7cc07d86a34a88ec8b30d"
+hash = "4ad2380d787eb6ccf4d88e26d646b459fd95b31d76a99f346b60d6dfc7fdc398"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "4f337d76bc4a68b26b53d0906e7c4d46c31b62c7f856e02026e6b34db9919fd4"
+hash = "0869b9877b317d826ea0c4bd2c65310abcce7fecf9efa2a14df1d8c7db4a66f9"
 metafile = true
 
 [[files]]
@@ -261,17 +261,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "d19038ff2e2b278d6fc5d374028f4a250366086c5c74427f8164266c1bda4ba2"
+hash = "4898b9beb1b7cf7df38346b02d9756c10e09408b6344e3295fe7177b25549f14"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "93082e40b2cc838550bf2aaaf41ece6c504a68c559d8e33a8ba5922283b5d27c"
+hash = "d1e003d33f69f43705cc97392716cdbb4f2e27c22ba7ba23ec425793c9e51f96"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0d01bbec603cc8b6bbdc37a15f8d66678b1ab43eff0b44bc04198e49dc2c7906"
+hash = "1824d1cc8f4f82a88972b9220dc6806c05968d651fb38f6bfe69e4d8215fc0ed"
 metafile = true
 
 [[files]]
@@ -286,12 +286,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "216006067453efa7a750f0d8bac6ea84c503b79e40aba32bd77c9edd183ec232"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
 file = "mods/factory-api.pw.toml"
-hash = "37be406b96a4a7720c054ad3309ec65a520aa255445dea9a7805ebcd5629e927"
+hash = "a608dfbff201c8ef75a120ba0421b5134d7f718dd85b4f6d885ba88e01f93904"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/legacy-nether-modrinth.pw.toml"
-hash = "85730886c6256b26416bc5f7d1bb9f7b4f4f266d4755703224a6b5290c9e6152"
+hash = "f4b1e9122404b2a9416d8c038005553d75d53f7611c287ecbcf43739217f424d"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "052cdc09e42b859608313e42ff971e1555a5fd6bf106df18c4bb80cac34715b2"
+hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ceff0a702b89b46599910e60c1e033f4fb2fcad48526a31803e950612b73de0c"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
 
 [[files]]
@@ -367,46 +367,6 @@ metafile = true
 [[files]]
 file = "mods/no-more-amethyst-geodes.pw.toml"
 hash = "ea78ba2666043719bb769e11df98dbb9d27d109459dcb0b34f64a18409bfab8f"
-metafile = true
-
-[[files]]
-file = "mods/no-more-copper-ore.pw.toml"
-hash = "c5ed95cdcd140dcc6d00c485d39c9f602ae44668b91c7eae1d03ebea4ecc6782"
-metafile = true
-
-[[files]]
-file = "mods/no-more-deepslate.pw.toml"
-hash = "b5935330ebe88a74e6fb27327488ff7ea31e0bb66a0f5a3d25330cd2ab447dfe"
-metafile = true
-
-[[files]]
-file = "mods/no-more-glow-lichen.pw.toml"
-hash = "0a00eb0b1307f5d5029bfbc25a80fe12928d3be6230858d26a4a12ee5682ab0f"
-metafile = true
-
-[[files]]
-file = "mods/no-more-ocean-ruins.pw.toml"
-hash = "5ec2ad660c023e94e50e080d5735c074571908ddf286f9fab3fff7415c45bc5f"
-metafile = true
-
-[[files]]
-file = "mods/no-more-phantoms.pw.toml"
-hash = "261d5d690fa19ceb056229df94558665a0a6ef76d71f0b7b6f289f6971942199"
-metafile = true
-
-[[files]]
-file = "mods/no-more-pillager-outposts.pw.toml"
-hash = "1f51490086a2b991b25ad89624c474392231fb15f5fd02830278fdb4f40a1f18"
-metafile = true
-
-[[files]]
-file = "mods/no-more-post-beta-flowers.pw.toml"
-hash = "966b21fee45675763736d34a77deb2b8e5a236c74b9d4f6be84b254a57f040b5"
-metafile = true
-
-[[files]]
-file = "mods/no-more-ruined-portals.pw.toml"
-hash = "7f638b3d6e529c6cb1e2407836d9a930f737e888963416700d9b4ef2634d5e6b"
 metafile = true
 
 [[files]]
@@ -470,6 +430,11 @@ hash = "c492d9eba4252076fd4227bff4b059b5e2350217cf844df36f833a5b51a98c77"
 metafile = true
 
 [[files]]
+file = "mods/window-size.pw.toml"
+hash = "3a3f26ec75accb14693618ab56a44938acb3b5d62d55197c2183ee338c8ef60b"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "21845c203ac77d39690d79e2e759a71539a9cc721a928364f821f81fd12cb972"
 metafile = true
@@ -491,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bd2b67fe95b9ea71db7729bac0e322f82f2b43125dcdda347ba5f89c7e842cde"
+hash = "952b23ea49aa7047e9ce4864aa3a7226eaa9b440a078cc10a64df9ace262d07c"
 
 [[files]]
 file = "resource_albums.json"
@@ -523,7 +488,7 @@ hash = "2eb119c6688707e6ca29d3dfae74c42605ed6c790a92c5be6fff223ea5c20f2c"
 
 [[files]]
 file = "resourcepacks/GameCube Edition/assets/legacy/lang/en_us.json"
-hash = "625a671988841699dcac9878fece2629ed055c6293cc7f6328a58829728299ee"
+hash = "6da5f8f49cbcb3c2d7ff5180fe229f0eb25cdc06bf428d6128948f502d712d35"
 
 [[files]]
 file = "resourcepacks/GameCube Edition/assets/legacy/textures/gui/intro/4j.png"
@@ -606,10 +571,6 @@ file = "resourcepacks/Modpack Resources/assets/2000s/textures/gui/sprites/icons/
 hash = "b6e64bf95d98acb8bdd0481d05493eeba8c351a3e81f8ac83129c8f4250929b0"
 
 [[files]]
-file = "resourcepacks/Modpack Resources/assets/legacy/control_types.json"
-hash = "544b06a92e525ee8a0460a67fecae7a767b50a3a7c393403f512bb20af496e4d"
-
-[[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/crafting_tab_listing.json"
 hash = "6ca51180e9e134d2aa8d569e30c1ac279dcfa28820f51ce047cb7c41ae63d1a1"
 
@@ -643,7 +604,7 @@ hash = "6adf6b7cc0bf2d1812850c295fdde734c1b767cbdae5aa49bbe98aa32f5089fd"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/font/switch.json"
-hash = "6adf6b7cc0bf2d1812850c295fdde734c1b767cbdae5aa49bbe98aa32f5089fd"
+hash = "642583d18d3711435e501e2b8f449c52513daad207132d5a7b0947acaf8411dc"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/font/wii_u.json"
@@ -667,7 +628,7 @@ hash = "2eb119c6688707e6ca29d3dfae74c42605ed6c790a92c5be6fff223ea5c20f2c"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/lang/en_us.json"
-hash = "eedfefa96be7aeb754b9d9ef699e3653c2c7cdc4ac47b1253c546a435e679b9a"
+hash = "672f0de97d1f165d15ed3e38a3423bc1328f38cf6884d0bbb01970c5162cf9aa"
 
 [[files]]
 file = "resourcepacks/Modpack Resources/assets/legacy/textures/component/ps3/back_button.png"
@@ -1351,7 +1312,7 @@ hash = "e0cb8f03c93244196894fe471bdf5d012108b12087e91f7cb6507bf44c710034"
 
 [[files]]
 file = "resourcepacks/PlayStation®2 Edition/assets/legacy/lang/en_us.json"
-hash = "63d249e8f175240ed6aaba032d1ff4824c20825745bec81918d97c735137a704"
+hash = "fdd119bb4e7afe0825f33612d06eff76b82b7de5a97db458e5b9228e96c6ce10"
 
 [[files]]
 file = "resourcepacks/PlayStation®2 Edition/assets/legacy/textures/gui/sprites/hud/save_arrow.png"
@@ -1375,7 +1336,7 @@ hash = "6922c907b34903ef924d75cfb83ab580b02c27402ac29e1f5ae89f4e4abe3cff"
 
 [[files]]
 file = "resourcepacks/Xbox Edition/assets/legacy/lang/en_us.json"
-hash = "cd27c3d441c9fb6f72e89e5d8da4d0839eca4844b7f5744c13ce348cb9196c2e"
+hash = "f0fb55de1fd0ffe8bc337fae3ac654b046d5d5110d4d823d61fa08ebba25a3e2"
 
 [[files]]
 file = "resourcepacks/Xbox Edition/assets/legacy/textures/gui/intro/4j.png"
@@ -1432,7 +1393,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/legacy-skin-packs.pw.toml"
-hash = "d72311dd08f9e4d4f2a7b84dd44a3be576f48baa19ce28ecc4db8370cd6a33b5"
+hash = "11b0c66e2b294eab4ae270ed7d34e67986224a70974914ce18bf1374285580a1"
 metafile = true
 
 [[files]]
@@ -1442,5 +1403,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "7d8ca3ee47745e10ff626f5fdb64f26455fd0ad1a300552a222672787837b7ec"
+hash = "6d5d7ec730da9321df1ed448d643e844657197926a4a273e3dabe3e09cab4c65"
 metafile = true

@@ -1,13 +1,13 @@
 name = "Legacy Nether"
-filename = "legacy-nether-modrinth-1.0.1.jar"
+filename = "legacy-nether-modrinth-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FasxNDY4/versions/s2pCf8gt/legacy-nether-modrinth-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/FasxNDY4/versions/XtBsZCX6/legacy-nether-modrinth-2.0.1.jar"
 hash-format = "sha512"
-hash = "79667a94ebecf3bc3e9015615bae984140388f4e8e8d5917f2a6ea01fcba125280ce4ae064a09d3546724fe1061124c90f103f4e02b8dcf48731264f20198533"
+hash = "b0d4329f52fd3642ded44cb37037206b334c7517524d6ea6be0e7c86577d5d3bd50d5c6984792b93ff00a647c4fbe7d4588760420003a3e550db26d71856ad29"
 
 [update]
 [update.modrinth]
 mod-id = "FasxNDY4"
-version = "s2pCf8gt"
+version = "XtBsZCX6"
